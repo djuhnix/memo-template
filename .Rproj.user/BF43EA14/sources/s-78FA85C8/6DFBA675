@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590870175345.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "448638280",
+    "id" : "6DFBA675",
+    "lastKnownWriteTime" : 1590870263,
+    "last_content_update" : 1590870263987,
+    "path" : "~/works/memo-template/assets/latex/before_body.tex",
+    "project_path" : "assets/latex/before_body.tex",
+    "properties" : {
+        "cursorPosition" : "4,87",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "tex"
+}

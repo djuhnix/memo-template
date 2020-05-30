@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.5.22)  30 MAY 2020 22:21
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.5.22)  30 MAY 2020 23:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -624,12 +624,7 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibsep=\skip90
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count299
-)
-
-LaTeX Warning: Unused global option(s):
-    [krantza].
-
-(./memo-template.aux)
+) (./memo-template.aux)
 \openout1 = `memo-template.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 188.
@@ -1045,6 +1040,11 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 
 ]
+LaTeX Font Info:    Font shape `TU/Alegreya(0)/m/n' will be
+(Font)              scaled to size 16.47711pt on input line 193.
+LaTeX Font Info:    Font shape `TU/Alegreya(0)/m/n' will be
+(Font)              scaled to size 13.73093pt on input line 195.
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1081,46 +1081,90 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  [][][][] 
  []
 
-[2
+[2]
+Underfull \vbox (badness 10000) detected at line 205
+ []
+
+
+Overfull \hbox (336.25pt too wide) detected at line 205
+[]
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 205
+ []
+
+
+Overfull \hbox (336.25pt too wide) detected at line 205
+[]
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 205
+ []
+
+
+Overfull \hbox (336.25pt too wide) detected at line 205
+[]
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 205
+ []
+
+
+Overfull \hbox (336.25pt too wide) detected at line 205
+[]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 205
+[]
+ []
+
+LaTeX Font Info:    Font shape `TU/Alegreya(0)/m/sl' in size <18> not available
+
+(Font)              Font shape `TU/Alegreya(0)/m/it' tried instead on input lin
+e 205.
+LaTeX Font Info:    Font shape `TU/Alegreya(0)/m/it' will be
+(Font)              scaled to size 17.16367pt on input line 205.
+LaTeX Font Info:    Font shape `TU/Alegreya(0)/b/sl' in size <18> not available
+
+(Font)              Font shape `TU/Alegreya(0)/b/it' tried instead on input lin
+e 205.
+LaTeX Font Info:    Font shape `TU/Alegreya(0)/b/it' will be
+(Font)              scaled to size 16.79205pt on input line 205.
+(./memo-template.toc
+LaTeX Font Info:    Font shape `TU/Alegreya(0)/b/n' will be
+(Font)              scaled to size 11.1947pt on input line 2.
+LaTeX Font Info:    Font shape `TU/Alegreya(0)/m/it' will be
+(Font)              scaled to size 11.44244pt on input line 4.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 8.4pt on input line 9.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 6.0pt on input line 9.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 8.40076pt on input line 9.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 6.00055pt on input line 9.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 8.3991pt on input line 9.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 5.99936pt on input line 9.
+LaTeX Font Info:    Font shape `TU/Alegreya(0)/m/n' will be
+(Font)              scaled to size 9.53537pt on input line 9.
+)
+\tf@toc=\write6
+\openout6 = `memo-template.toc'.
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ [][][][] 
+ []
+
+[3
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (336.25pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (336.25pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (336.25pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (336.25pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- [][][][] 
- []
-
-[3]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1160,48 +1204,61 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [4
 
 ]
-LaTeX Font Info:    Font shape `TU/Alegreya(0)/m/n' will be
-(Font)              scaled to size 16.47711pt on input line 196.
-LaTeX Font Info:    Font shape `TU/Alegreya(0)/m/n' will be
-(Font)              scaled to size 13.73093pt on input line 198.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 10000) detected at line 207
+ []
 
 
-Overfull \hbox (336.25pt too wide) has occurred while \output is active
+Overfull \hbox (336.25pt too wide) detected at line 207
 []
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 10000) detected at line 207
+ []
 
 
-Overfull \hbox (336.25pt too wide) has occurred while \output is active
+Overfull \hbox (336.25pt too wide) detected at line 207
 []
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 10000) detected at line 207
+ []
 
 
-Overfull \hbox (336.25pt too wide) has occurred while \output is active
+Overfull \hbox (336.25pt too wide) detected at line 207
 []
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 10000) detected at line 207
+ []
 
 
-Overfull \hbox (336.25pt too wide) has occurred while \output is active
+Overfull \hbox (336.25pt too wide) detected at line 207
 []
  []
+
+
+Underfull \hbox (badness 10000) detected at line 207
+[]
+ []
+
+
+Package hyperref Warning: bookmark level for unknown fm defaults to 0.
+
+(./memo-template.lot)
+\tf@lot=\write7
+\openout7 = `memo-template.lot'.
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
  [][][][] 
  []
 
-[5]
+[5
+
+]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1281,47 +1338,18 @@ Underfull \hbox (badness 10000) detected at line 208
 []
  []
 
-LaTeX Font Info:    Font shape `TU/Alegreya(0)/m/sl' in size <18> not available
-
-(Font)              Font shape `TU/Alegreya(0)/m/it' tried instead on input lin
-e 208.
-LaTeX Font Info:    Font shape `TU/Alegreya(0)/m/it' will be
-(Font)              scaled to size 17.16367pt on input line 208.
-LaTeX Font Info:    Font shape `TU/Alegreya(0)/b/sl' in size <18> not available
-
-(Font)              Font shape `TU/Alegreya(0)/b/it' tried instead on input lin
-e 208.
-LaTeX Font Info:    Font shape `TU/Alegreya(0)/b/it' will be
-(Font)              scaled to size 16.79205pt on input line 208.
-(./memo-template.toc
-LaTeX Font Info:    Font shape `TU/Alegreya(0)/b/n' will be
-(Font)              scaled to size 11.1947pt on input line 2.
-LaTeX Font Info:    Font shape `TU/Alegreya(0)/m/it' will be
-(Font)              scaled to size 11.44244pt on input line 4.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 8.4pt on input line 9.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 9.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 8.40076pt on input line 9.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.00055pt on input line 9.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 8.3991pt on input line 9.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 9.
-LaTeX Font Info:    Font shape `TU/Alegreya(0)/m/n' will be
-(Font)              scaled to size 9.53537pt on input line 9.
-)
-\tf@toc=\write6
-\openout6 = `memo-template.toc'.
+(./memo-template.lof)
+\tf@lof=\write8
+\openout8 = `memo-template.lof'.
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
  [][][][] 
  []
 
-[7]
+[7
+
+]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1396,18 +1424,10 @@ Overfull \hbox (336.25pt too wide) detected at line 210
 []
  []
 
-
-Underfull \hbox (badness 10000) detected at line 210
-[]
- []
-
-
-Package hyperref Warning: bookmark level for unknown fm defaults to 0.
-
-(./memo-template.lot)
-\tf@lot=\write7
-\openout7 = `memo-template.lot'.
-
+LaTeX Font Info:    Font shape `TU/Alegreya(0)/m/n' will be
+(Font)              scaled to size 22.88489pt on input line 210.
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <12> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 218.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
  [][][][] 
@@ -1455,51 +1475,389 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [10
 
 ]
-Underfull \vbox (badness 10000) detected at line 211
+Underfull \vbox (badness 10000) detected at line 231
  []
 
 
-Overfull \hbox (336.25pt too wide) detected at line 211
+Overfull \hbox (336.25pt too wide) detected at line 231
 []
  []
 
 
-Underfull \vbox (badness 10000) detected at line 211
+Underfull \vbox (badness 10000) detected at line 231
  []
 
 
-Overfull \hbox (336.25pt too wide) detected at line 211
+Overfull \hbox (336.25pt too wide) detected at line 231
 []
  []
 
 
-Underfull \vbox (badness 10000) detected at line 211
+Underfull \vbox (badness 10000) detected at line 231
  []
 
 
-Overfull \hbox (336.25pt too wide) detected at line 211
+Overfull \hbox (336.25pt too wide) detected at line 231
 []
  []
 
 
-Underfull \vbox (badness 10000) detected at line 211
+Underfull \vbox (badness 10000) detected at line 231
  []
 
 
-Overfull \hbox (336.25pt too wide) detected at line 211
+Overfull \hbox (336.25pt too wide) detected at line 231
+[]
+ []
+
+Chapitre 1.
+File: memo-template_files/figure-latex/nice-fig-1.pdf Graphic file (type pdf)
+<use memo-template_files/figure-latex/nice-fig-1.pdf>
+
+Underfull \hbox (badness 3930) in paragraph at lines 253--254
+[]\TU/Alegreya(0)/m/n/12 Reference a figure by its code chunk label with the \T
+U/lmtt/m/n/12 fig: \TU/Alegreya(0)/m/n/12 prefix,
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ [][][][] 
+ []
+
+[1
+
+
+]
+
+Package natbib Warning: Citation `R-bookdown' on page 2 undefined on input line
+ 299.
+
+[2] [3]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (336.25pt too wide) has occurred while \output is active
 []
  []
 
 
-Underfull \hbox (badness 10000) detected at line 211
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (336.25pt too wide) has occurred while \output is active
 []
  []
 
-(./memo-template.lof)
-\tf@lof=\write8
-\openout8 = `memo-template.lof'.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
+Overfull \hbox (336.25pt too wide) has occurred while \output is active
+[]
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (336.25pt too wide) has occurred while \output is active
+[]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ [][][][] 
+ []
+
+[4
+
+]
+Underfull \vbox (badness 10000) detected at line 302
+ []
+
+
+Overfull \hbox (336.25pt too wide) detected at line 302
+[]
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 302
+ []
+
+
+Overfull \hbox (336.25pt too wide) detected at line 302
+[]
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 302
+ []
+
+
+Overfull \hbox (336.25pt too wide) detected at line 302
+[]
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 302
+ []
+
+
+Overfull \hbox (336.25pt too wide) detected at line 302
+[]
+ []
+
+Chapitre 2.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ [][][][] 
+ []
+
+[5
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (336.25pt too wide) has occurred while \output is active
+[]
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (336.25pt too wide) has occurred while \output is active
+[]
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (336.25pt too wide) has occurred while \output is active
+[]
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (336.25pt too wide) has occurred while \output is active
+[]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ [][][][] 
+ []
+
+[6
+
+]
+Underfull \vbox (badness 10000) detected at line 307
+ []
+
+
+Overfull \hbox (336.25pt too wide) detected at line 307
+[]
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 307
+ []
+
+
+Overfull \hbox (336.25pt too wide) detected at line 307
+[]
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 307
+ []
+
+
+Overfull \hbox (336.25pt too wide) detected at line 307
+[]
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 307
+ []
+
+
+Overfull \hbox (336.25pt too wide) detected at line 307
+[]
+ []
+
+Chapitre 3.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ [][][][] 
+ []
+
+[7
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (336.25pt too wide) has occurred while \output is active
+[]
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (336.25pt too wide) has occurred while \output is active
+[]
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (336.25pt too wide) has occurred while \output is active
+[]
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (336.25pt too wide) has occurred while \output is active
+[]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ [][][][] 
+ []
+
+[8
+
+]
+Underfull \vbox (badness 10000) detected at line 312
+ []
+
+
+Overfull \hbox (336.25pt too wide) detected at line 312
+[]
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 312
+ []
+
+
+Overfull \hbox (336.25pt too wide) detected at line 312
+[]
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 312
+ []
+
+
+Overfull \hbox (336.25pt too wide) detected at line 312
+[]
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 312
+ []
+
+
+Overfull \hbox (336.25pt too wide) detected at line 312
+[]
+ []
+
+Chapitre 4.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ [][][][] 
+ []
+
+[9
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (336.25pt too wide) has occurred while \output is active
+[]
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (336.25pt too wide) has occurred while \output is active
+[]
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (336.25pt too wide) has occurred while \output is active
+[]
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (336.25pt too wide) has occurred while \output is active
+[]
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+ [][][][] 
+ []
+
+[10
+
+]
+Underfull \vbox (badness 10000) detected at line 323
+ []
+
+
+Overfull \hbox (336.25pt too wide) detected at line 323
+[]
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 323
+ []
+
+
+Overfull \hbox (336.25pt too wide) detected at line 323
+[]
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 323
+ []
+
+
+Overfull \hbox (336.25pt too wide) detected at line 323
+[]
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 323
+ []
+
+
+Overfull \hbox (336.25pt too wide) detected at line 323
+[]
+ []
+
+Chapitre 5.
+(./memo-template.bbl
 Underfull \hbox (badness 10000) has occurred while \output is active
  [][][][] 
  []
@@ -1546,521 +1904,6 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [12
 
 ]
-Underfull \vbox (badness 10000) detected at line 213
- []
-
-
-Overfull \hbox (336.25pt too wide) detected at line 213
-[]
- []
-
-
-Underfull \vbox (badness 10000) detected at line 213
- []
-
-
-Overfull \hbox (336.25pt too wide) detected at line 213
-[]
- []
-
-
-Underfull \vbox (badness 10000) detected at line 213
- []
-
-
-Overfull \hbox (336.25pt too wide) detected at line 213
-[]
- []
-
-
-Underfull \vbox (badness 10000) detected at line 213
- []
-
-
-Overfull \hbox (336.25pt too wide) detected at line 213
-[]
- []
-
-LaTeX Font Info:    Font shape `TU/Alegreya(0)/m/n' will be
-(Font)              scaled to size 22.88489pt on input line 213.
-LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <12> not available
-(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 221.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- [][][][] 
- []
-
-[13
-
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (336.25pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (336.25pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (336.25pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (336.25pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- [][][][] 
- []
-
-[14
-
-]
-Underfull \vbox (badness 10000) detected at line 232
- []
-
-
-Overfull \hbox (336.25pt too wide) detected at line 232
-[]
- []
-
-
-Underfull \vbox (badness 10000) detected at line 232
- []
-
-
-Overfull \hbox (336.25pt too wide) detected at line 232
-[]
- []
-
-
-Underfull \vbox (badness 10000) detected at line 232
- []
-
-
-Overfull \hbox (336.25pt too wide) detected at line 232
-[]
- []
-
-
-Underfull \vbox (badness 10000) detected at line 232
- []
-
-
-Overfull \hbox (336.25pt too wide) detected at line 232
-[]
- []
-
-
-Package hyperref Warning: Suppressing empty link on input line 234.
-
-
-Package hyperref Warning: Suppressing empty link on input line 234.
-
-File: memo-template_files/figure-latex/nice-fig-1.pdf Graphic file (type pdf)
-<use memo-template_files/figure-latex/nice-fig-1.pdf>
-
-Underfull \hbox (badness 3930) in paragraph at lines 254--255
-[]\TU/Alegreya(0)/m/n/12 Reference a figure by its code chunk label with the \T
-U/lmtt/m/n/12 fig: \TU/Alegreya(0)/m/n/12 prefix,
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- [][][][] 
- []
-
-[15
-
-]
-
-Package natbib Warning: Citation `R-bookdown' on page xvi undefined on input li
-ne 300.
-
-[16] [17]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (336.25pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (336.25pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (336.25pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (336.25pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- [][][][] 
- []
-
-[18
-
-]
-Underfull \vbox (badness 10000) detected at line 303
- []
-
-
-Overfull \hbox (336.25pt too wide) detected at line 303
-[]
- []
-
-
-Underfull \vbox (badness 10000) detected at line 303
- []
-
-
-Overfull \hbox (336.25pt too wide) detected at line 303
-[]
- []
-
-
-Underfull \vbox (badness 10000) detected at line 303
- []
-
-
-Overfull \hbox (336.25pt too wide) detected at line 303
-[]
- []
-
-
-Underfull \vbox (badness 10000) detected at line 303
- []
-
-
-Overfull \hbox (336.25pt too wide) detected at line 303
-[]
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- [][][][] 
- []
-
-[19
-
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (336.25pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (336.25pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (336.25pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (336.25pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- [][][][] 
- []
-
-[20
-
-]
-Underfull \vbox (badness 10000) detected at line 308
- []
-
-
-Overfull \hbox (336.25pt too wide) detected at line 308
-[]
- []
-
-
-Underfull \vbox (badness 10000) detected at line 308
- []
-
-
-Overfull \hbox (336.25pt too wide) detected at line 308
-[]
- []
-
-
-Underfull \vbox (badness 10000) detected at line 308
- []
-
-
-Overfull \hbox (336.25pt too wide) detected at line 308
-[]
- []
-
-
-Underfull \vbox (badness 10000) detected at line 308
- []
-
-
-Overfull \hbox (336.25pt too wide) detected at line 308
-[]
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- [][][][] 
- []
-
-[21
-
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (336.25pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (336.25pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (336.25pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (336.25pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- [][][][] 
- []
-
-[22
-
-]
-Underfull \vbox (badness 10000) detected at line 313
- []
-
-
-Overfull \hbox (336.25pt too wide) detected at line 313
-[]
- []
-
-
-Underfull \vbox (badness 10000) detected at line 313
- []
-
-
-Overfull \hbox (336.25pt too wide) detected at line 313
-[]
- []
-
-
-Underfull \vbox (badness 10000) detected at line 313
- []
-
-
-Overfull \hbox (336.25pt too wide) detected at line 313
-[]
- []
-
-
-Underfull \vbox (badness 10000) detected at line 313
- []
-
-
-Overfull \hbox (336.25pt too wide) detected at line 313
-[]
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- [][][][] 
- []
-
-[23
-
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (336.25pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (336.25pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (336.25pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (336.25pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- [][][][] 
- []
-
-[24
-
-]
-Underfull \vbox (badness 10000) detected at line 324
- []
-
-
-Overfull \hbox (336.25pt too wide) detected at line 324
-[]
- []
-
-
-Underfull \vbox (badness 10000) detected at line 324
- []
-
-
-Overfull \hbox (336.25pt too wide) detected at line 324
-[]
- []
-
-
-Underfull \vbox (badness 10000) detected at line 324
- []
-
-
-Overfull \hbox (336.25pt too wide) detected at line 324
-[]
- []
-
-
-Underfull \vbox (badness 10000) detected at line 324
- []
-
-
-Overfull \hbox (336.25pt too wide) detected at line 324
-[]
- []
-
-(./memo-template.bbl
-Underfull \hbox (badness 10000) has occurred while \output is active
- [][][][] 
- []
-
-[25
-
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (336.25pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (336.25pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (336.25pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \hbox (336.25pt too wide) has occurred while \output is active
-[]
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
- [][][][] 
- []
-
-[26
-
-]
 Underfull \vbox (badness 10000) detected at line 1
  []
 
@@ -2105,30 +1948,30 @@ Underfull \hbox (badness 10000) detected at line 1
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 332.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 331.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
  [][][][] 
  []
 
-[27
+[13
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 332.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 331.
 (./memo-template.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 332.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 332.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 331.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 331.
 Package rerunfilecheck Info: File `memo-template.out' has not changed.
-(rerunfilecheck)             Checksum: FF99C0F78E704CBC5C6764AFF3E4F778;1171.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 332.
+(rerunfilecheck)             Checksum: C1D37814AAB63135200855862053BF7E;1197.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 331.
  ) 
 Here is how much of TeX's memory you used:
- 18905 strings out of 481274
- 334587 string characters out of 5924738
- 759512 words of memory out of 5000000
- 36132 multiletter control sequences out of 15000+600000
+ 18904 strings out of 481274
+ 334576 string characters out of 5924738
+ 759494 words of memory out of 5000000
+ 36131 multiletter control sequences out of 15000+600000
  540853 words of font info for 107 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  53i,8n,121p,355b,404s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on memo-template.pdf (27 pages).
+Output written on memo-template.pdf (23 pages).

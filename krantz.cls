@@ -1521,15 +1521,15 @@
     \parindent 1em%
     \noindent
     \hb@xt@1.8em{\hss\@makefnmark}#1}
-\newcommand\contentsname{Contents}
-\newcommand\listfigurename{List of Figures}
-\newcommand\listtablename{List of Tables}
-\newcommand\bibname{Bibliography}
+\newcommand\contentsname{Table des matières}
+\newcommand\listfigurename{Liste des figures}
+\newcommand\listtablename{Liste des Tableaux}
+\newcommand\bibname{Bibliographie}
 \newcommand\figurename{FIGURE}
-\newcommand\tablename{TABLE}
-\newcommand\partname{Part}
-\newcommand\chaptername{Chapter}
-\newcommand\appendixname{Appendix}
+\newcommand\tablename{TABLEAU}
+\newcommand\partname{Partie}
+\newcommand\chaptername{Chapitre}
+\newcommand\appendixname{Annexe}
 \def\today{\ifcase\month\or
   January\or February\or March\or April\or May\or June\or
   July\or August\or September\or October\or November\or December\fi

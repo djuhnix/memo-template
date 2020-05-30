@@ -1,4 +1,5 @@
 book_filename: "memo-template"
+repo: https://github.com/djuhnix/memo-template/
 output_dir: docs
 delete_merged_file: true
 language:

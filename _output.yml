@@ -1,4 +1,6 @@
 bookdown::gitbook:
+  includes:
+    after_body: docs/hypothesis.html
   css:
     - assets/css/style.css
     - assets/css/toc.css

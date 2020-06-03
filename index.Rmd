@@ -6,15 +6,18 @@ date: '`r format(Sys.Date(), format="%d %B %Y")`'
 site: bookdown::bookdown_site
 cover-image: assets/img/cover.png
 documentclass: krantz
+classoption:
+  - a4paper
+  - krantz2
+  - 11pt
+  - oneside
 bibliography:
   - bib/book.bib
 biblio-style: apalike
 link-citations: yes
 description: "Ceci est un template de mémoire utilisant bookdown"
-classoption:
-  - a4paper
 mainfont: Alegreya
-fontsize: 12pt
+fontsize: 11pt
 github-repo: djuhnix/memo-template
 graphics: yes
 lof: yes
